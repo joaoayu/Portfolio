@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: #14141E;
+    color: white;
+    font-family: 'Poppins', monospace;
+}
+
+.container{
+    padding: 5em;
+}
+
+span{
+    color: aquamarine;
+}
+
+a:hover{
+    color: aquamarine;
+}
+
+img {
+    width: 40%;
+    border: 2px solid #ddd;
+    border-radius: 8px; 
+    padding: 4px; 
+}
